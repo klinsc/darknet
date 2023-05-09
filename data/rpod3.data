@@ -1,0 +1,5 @@
+classes = 5
+train = data/rpod3_train.txt
+valid = data/rpod3_valid.txt
+names = data/rpod3.names
+backup = ../drive/MyDrive/thesis/backup/
